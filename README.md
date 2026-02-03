@@ -22,15 +22,13 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
-- Desktop design
-![](./images/desktop-design.jpg)
+#### Desktop View
+![Desktop Design](./images/desktop-design.jpg)
 
-
-
-- Mobile design
-![](./images/mobile-design.jpg)
+#### Mobile View
+![Mobile Design](./images/mobile-design.jpg)
 
 ### Links
 

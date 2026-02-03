@@ -81,7 +81,7 @@
         box-shadow: 0 40px 40px -10px rgba(0, 0, 0, 0.1);
     }
 
-    .container .box p:first-of-type,
+    .container .box h3,
     .container .box .head span:first-of-type {
         color: var(--neutral-color-gray-100);
     }
@@ -117,9 +117,8 @@
         font-size: 13px;
     }
 
-    .container .box  P:first-of-type {
+    .container .box h3 {
         line-height: 1.5;
-        font-weight: 500;
     }
 
     .container .box  P:nth-of-type(2) {
@@ -142,9 +141,9 @@
     }
 
     /* third & fifth box  */
-    .container .box:nth-child(3) p:first-of-type,
+    .container .box:nth-child(3) h3,
     .container .box:nth-child(3) .head span:first-of-type,
-    .container .box:nth-child(5) p:first-of-type,
+    .container .box:nth-child(5) h3,
     .container .box:nth-child(5) .head span:first-of-type {
         color: var(--neutral-color-gray-900);
     }

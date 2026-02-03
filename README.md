@@ -27,6 +27,8 @@ Users should be able to:
 - Desktop design
 ![](./images/desktop-design.jpg)
 
+
+
 - Mobile design
 ![](./images/mobile-design.jpg)
 

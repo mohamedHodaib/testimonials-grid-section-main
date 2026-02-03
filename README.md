@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: (https://mohamedhodaib.github.io/testimonials-grid-section-main/)
+- Solution URL: [solution] (https://www.frontendmentor.io/solutions/testimonials-grid-section-oRQOLiF128)
+- Live Site URL:[LiveSite] (https://mohamedhodaib.github.io/testimonials-grid-section-main/)
 
 ## My process
 

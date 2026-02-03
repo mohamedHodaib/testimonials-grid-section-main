@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedHodaib/testimonials-grid-section](https://github.com/mohamedHodaib/testimonials-grid-section)
-- Live Site URL: [https://mohamedhodaib.github.io/testimonials-grid-section/](https://mohamedhodaib.github.io/testimonials-grid-section/)
+- Solution URL: ()
+- Live Site URL: (https://mohamedhodaib.github.io/testimonials-grid-section-main/)
 
 ## My process
 
